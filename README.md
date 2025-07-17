@@ -1,5 +1,5 @@
-# Akshay-Chatbot
-Akshay Chatbot: AI Chatbot
+# SmartPrompt 
+SmartPrompt : AI Chatbot
 
 ## ngrok Setup
 This project uses [ngrok](https://ngrok.com/) for tunneling.
